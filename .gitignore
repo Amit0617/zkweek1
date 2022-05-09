@@ -7,3 +7,14 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+#auto generated
+*.r1cs
+*.wasm
+*.sym
+*.json
+*.ptau
+*.zkey
+LessThan10_js
+Multiplier3_js
+HelloWorld_js
